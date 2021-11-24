@@ -1,0 +1,22 @@
+h1{
+    color: #a32727;
+
+}
+.li{
+    color: #914a4a;
+    
+}
+img{
+    width: 500px;
+    height: 300px;
+    
+}
+.list{
+    border: 10px hsl(0, 29%, 49%) solid;
+}
+a:hover{
+    color: #3c278b;
+}
+a:visited{
+    color: #4b4343;
+}
